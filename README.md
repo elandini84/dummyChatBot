@@ -1,8 +1,9 @@
 ![YARP logo](doc/images/yarp-robot-24.png?raw=true "yarp-device-template")
-Yarp device for xxx
+
+Yarp device for dummy chatBot
 =====================
 
-This repository contains the YARP plugin for xxx.
+This repository contains the YARP plugin for a simple dummy chabot.
 
 :construction: This repository is currently work in progress. :construction:
 :construction: The software contained is this repository is currently under testing. :construction: APIs may change without any warning. :construction: This code should be not used before its first official release :construction:
@@ -44,4 +45,4 @@ This repository is maintained by:
 
 | | |
 |:---:|:---:|
-| [<img src="https://github.com/randaz81.png" width="40">](https://github.com/randaz81) | [@randaz81](https://github.com/randaz81) |
+| [<img src="https://github.com/elandini84.png" width="40">](https://github.com/elandini84) | [@elandini84](https://github.com/elandini84) |
