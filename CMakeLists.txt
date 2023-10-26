@@ -11,6 +11,7 @@ include(FeatureSummary)
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
 
 find_package(YCM 0.15.1 REQUIRED)
+find_package(nlohmann_json)
 
 include(GNUInstallDirs)
 
